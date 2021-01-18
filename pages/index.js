@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hey! My name is Ahmed Saliu and I'm a software Engineer from Nigeria.
-          And I'm keen to developing skills set.
+          And I'm keen to developing my skills set.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
